@@ -1,0 +1,3 @@
+# The official Anthropic SDK is the only dependency.
+# It bundles pydantic, which lesson 2 / 4 / 6 use for structured outputs.
+anthropic>=0.69
